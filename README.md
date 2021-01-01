@@ -13,6 +13,8 @@ Just made some modifications to the following modules:
 * Conky (system stats)
 * Nitrogen (for background pictures)
 * fontconfig (fonts I assume?)
+* jgmenu (using this instead of the openbox menu)
+* dunst (notification stuff)
 
 And some other stuff in here as well.
 
